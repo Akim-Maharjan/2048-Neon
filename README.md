@@ -19,7 +19,8 @@ A neon-themed version of the classic 2048 puzzle game, built in Python with a st
 ![Game Over](screenshot_end.png)
 
 ## 🎨 Logo
-![Game Logo](logo_240xhreno.png)
+![Game Logo](logo_2048neon.png)
 
 ## 🔒 License
+
 This project is licensed under the MIT License. You are free to use, modify, and distribute this game with proper attribution.
